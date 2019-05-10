@@ -176,6 +176,11 @@
             <version>${mule.version}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+		 	<groupId>com.mulesoft.security</groupId>
+		     <artifactId>mule-module-security-property-placeholder</artifactId>
+		     <version>1.7.1</version>
+		</dependency>
     </dependencies>
 
 	<repositories>
